@@ -1,0 +1,11 @@
+C:\Users\Bulre\Desktop\nameGuesser\nameGuesser\bin\Debug\netcoreapp3.1\nameGuesser.exe
+C:\Users\Bulre\Desktop\nameGuesser\nameGuesser\bin\Debug\netcoreapp3.1\nameGuesser.deps.json
+C:\Users\Bulre\Desktop\nameGuesser\nameGuesser\bin\Debug\netcoreapp3.1\nameGuesser.runtimeconfig.json
+C:\Users\Bulre\Desktop\nameGuesser\nameGuesser\bin\Debug\netcoreapp3.1\nameGuesser.runtimeconfig.dev.json
+C:\Users\Bulre\Desktop\nameGuesser\nameGuesser\bin\Debug\netcoreapp3.1\nameGuesser.dll
+C:\Users\Bulre\Desktop\nameGuesser\nameGuesser\bin\Debug\netcoreapp3.1\nameGuesser.pdb
+C:\Users\Bulre\Desktop\nameGuesser\nameGuesser\obj\Debug\netcoreapp3.1\nameGuesser.csprojAssemblyReference.cache
+C:\Users\Bulre\Desktop\nameGuesser\nameGuesser\obj\Debug\netcoreapp3.1\nameGuesser.AssemblyInfoInputs.cache
+C:\Users\Bulre\Desktop\nameGuesser\nameGuesser\obj\Debug\netcoreapp3.1\nameGuesser.AssemblyInfo.cs
+C:\Users\Bulre\Desktop\nameGuesser\nameGuesser\obj\Debug\netcoreapp3.1\nameGuesser.dll
+C:\Users\Bulre\Desktop\nameGuesser\nameGuesser\obj\Debug\netcoreapp3.1\nameGuesser.pdb
